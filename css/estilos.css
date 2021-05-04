@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+.contenedor{
+    background-color: rgba(26, 25, 104, 0.973);
+}
+.boton{
+    text-transform: uppercase;
+}
+h2,
+h3, 
+p{
+    margin: 1rem 0;
+    color: #fff;
+    text-transform: uppercase;
+
+}
+
+#mensaje_usuario,
+#mensaje_contraseña{
+    color: rgb(245, 103, 9);
+}
+.btn{
+    margin: 2rem;
+}
